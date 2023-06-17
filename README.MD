@@ -1,3 +1,3 @@
-# automotive-car-design-en
+# Responsive automotive-car-design-en
 
 ![automotive-car-design-en](./images/screenshot-finished-template.png)
